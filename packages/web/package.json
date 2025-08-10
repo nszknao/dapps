@@ -24,10 +24,10 @@
     "wagmi": "0.9.4"
   },
   "devDependencies": {
-    "@graphql-codegen/cli": "2.16.1",
-    "@graphql-codegen/near-operation-file-preset": "2.4.4",
-    "@graphql-codegen/typescript": "2.8.5",
-    "@graphql-codegen/typescript-operations": "2.5.10",
+    "@graphql-codegen/cli": "2.16.5",
+    "@graphql-codegen/near-operation-file-preset": "2.5.0",
+    "@graphql-codegen/typescript": "2.8.8",
+    "@graphql-codegen/typescript-operations": "2.5.13",
     "@graphql-codegen/typescript-urql": "3.7.3",
     "@types/react": "18.0.26",
     "autoprefixer": "10.4.13",
